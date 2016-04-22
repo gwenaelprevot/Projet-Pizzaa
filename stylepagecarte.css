@@ -1,0 +1,37 @@
+html{
+
+background-image: url(background.png);
+font-family: 'Cabin', sans-serif;
+}
+.carte{
+text-align: center;
+margin-left: 35%;
+
+}
+.logo{
+	margin-left: 25%;
+	width: 800px;
+}
+
+img {
+
+	width:100px;
+
+}
+a{
+	width: 200px;
+	background:    #fc9b00;
+border:        2px solid #db7b1b;
+border-radius: 19px;
+color:         #fff;
+display:       inline-block;
+padding:       8px 8px;
+font:          normal 700 16px/1 "Calibri", sans-serif;
+text-align:    center;
+text-shadow:   none;
+text-decoration: none;
+}
+#menu{
+
+		text-align: center;
+}

@@ -1,0 +1,23 @@
+
+.message {
+	      background-color: #FCFFFE;
+	      border: 2px solid black;
+          background: rgba(0,0,0,.0);
+          border-radius: 20px;
+	      margin: auto;
+          text-align: center;
+          width: 500px;
+          margin-top: 250px;
+      }
+p{
+  font-family: 'Cabin', sans-serif;	
+}
+img{
+width: 500px;
+}
+html{
+
+background-image: url(fonddepager.jpeg);
+background-size: cover;
+
+}

@@ -1,0 +1,66 @@
+img {
+position: left ;
+width: 300px;
+}
+body{
+margin-left: 35%;
+width: 900px;
+background-repeat:no-repeat;
+background-position:center center;
+height: -1500px;
+}
+.commande{
+	position:-150px;
+	margin-left: -5px;
+	color: black;
+	font-size: 20px
+	
+}
+body{
+background: url(background.png) center center fixed;
+}
+.formulair{
+	color:green;
+	
+}
+html {
+	font-family: 'Cabin', sans-serif;
+}
+#bouton{
+	background:    #fc9b00;
+border:        2px solid #db7b1b;
+border-radius: 19px;
+color:         #fff;
+display:       inline-block;
+padding:       8px 8px;
+font:          normal 700 11px/1 "Calibri", sans-serif;
+text-align:    center;
+text-shadow:   none;
+	
+}
+a{
+	background:    #fc9b00;
+border:        2px solid #db7b1b;
+border-radius: 19px;
+color:         #fff;
+display:       inline-block;
+padding:       8px 8px;
+font:          normal 700 16px/1 "Calibri", sans-serif;
+text-align:    center;
+text-shadow:   none;
+text-decoration: none;
+width: 200px;
+}
+#comfir{
+	background:    #fc9b00;
+border:        2px solid #db7b1b;
+border-radius: 19px;
+color:         #fff;
+display:       inline-block;
+padding:       8px 8px;
+font:          normal 700 16px/1 "Calibri", sans-serif;
+text-align:    center;
+text-shadow:   none;
+text-decoration: none;
+width: 200px;
+}

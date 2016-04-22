@@ -1,0 +1,114 @@
+
+body {
+background: url(background.png) center center fixed; 
+	}
+
+#mainlogo {
+	height: 600px;
+    
+}
+
+#titre{
+	font-family: 'Cabin', sans-serif
+	font size:50px;
+	text-align: center;
+	text-shadow: 0 1px 0;
+
+}
+
+#mainbannerleft{
+	font-family: 'Cabin', sans-serif;
+	font-size: 20px;
+	text-align: left;
+	display: inline-block;
+	width: 300px; /*c'est ça qui aligne les deux banner */
+	margin-left: 1%;
+	text-align: left;
+}
+h1{
+
+	font-family: 'Cabin', sans-serif;
+
+}
+
+#mainbannerright {
+	font-family: 'Cabin', sans-serif;
+	font-size: 20px;
+	float: right;
+	width: 200px;
+	float: right; /*c'est ca qui l'aligne à droite de banner left*/
+}
+
+hr {
+    border: 0;
+    height: 3px;
+    background: #000;
+}
+
+
+div#slider { 
+	width: 200px; 
+	max-width: 1000px; 
+	margin-left: 35%;
+	margin-right: 50%;
+} 
+
+div#slider figure {
+  position: relative; 
+  width: 500%;
+  margin: 0;
+  padding: 0;
+  font-size: 0;
+}
+
+div#slider figure img { 
+	width: 20%; 
+	height: auto; 
+	float: left; 
+}
+
+div#slider { 
+	width: 80%; 
+	max-width: 500px; 
+	overflow: hidden;
+	display:inline-block;
+}
+
+@keyframes slidy {
+  0% { left: 0%; }
+  20% { left: 0%; }
+  25% { left: -100%; }
+  45% { left: -100%; }
+  50% { left: -200%; }
+  70% { left: -200%; }
+  75% { left: -300%; }
+  95% { left: -300%; }
+  100% { left: -400%; }
+}
+
+div#slider figure {
+  position: relative;
+  width: 500%;
+  margin: 0;
+  padding: 0;
+  font-size: 0;
+  left: 0;
+  animation: 30s slidy infinite;
+}
+
+a {
+font-size: 30px;
+text-decoration: none;
+background:    #fc9b00;
+border:        2px solid #db7b1b;
+border-radius: 19px;
+color:         #fff;
+display:       inline-block;
+padding:       8px 15px;
+font:          normal 700 22px/1 "Roboto", sans-serif;
+text-align:    center;
+text-shadow:   none;
+margin-left: 45%;
+
+}
+

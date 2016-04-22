@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pizzas>
+	<pizza>
+		<nom>La Marguerite</nom>
+		<composition>Tomate, Mozzarella, Origan, Olives</composition>
+		<prix taille_l="7.00" taille_xl="12.00" taille_xxl="18.00"></prix>
+		<image>marguerite.jpg</image>
+	</pizza>
+	<pizza>
+		<nom>La Merguez</nom>
+		<composition>Sauce tomate, oignons , poivrons, merguez, mozzarella, olives</composition>
+		<prix taille_l="7.80" taille_xl="13.20" taille_xxl="19.50"></prix>
+		<image>merguez.jpg</image>
+	</pizza>
+	<pizza>
+		<nom>La Reine</nom>
+		<composition>Sauce tomate, jambon, champignons, mozzarella, olives</composition>
+		<prix taille_l="7.40" taille_xl="12.80" taille_xxl="19.00"></prix>
+		<image>reine.jpg</image>
+	</pizza>
+	<pizza>
+		<nom>La Roquefort</nom>
+		<composition>Sauce tomate, jambon, roquefort, crème fraîche, mozzarella, noix, olives</composition>
+		<prix taille_l="8.20" taille_xl="13.50" taille_xxl="20.00"></prix>
+		<image>roquefort.jpg</image>
+	</pizza>
+	<pizza>
+		<nom>La Royal Bacon Cheese</nom>
+		<composition>Sauce tomate, jambon, bacon, cheese, oeuf, olives, champignons</composition>
+		<prix taille_l="9.80" taille_xl="14.50" taille_xxl="21.20"></prix>
+		<image>royal-bacon.jpg</image>
+	</pizza>
+	<pizza>
+		<nom>La Royal</nom>
+		<composition>Sauce tomate, jambon, lardons, champignons, oignons, mozzarella, olives</composition>
+		<prix taille_l="9.60" taille_xl="14.10" taille_xxl="20.20"></prix>
+		<image>royal.jpg</image>
+	</pizza>
+	<pizza>
+		<nom>La Saumon</nom>
+		<composition>Crème fraîche, saumon, pommes de terre, oignons, persillade, mozzarella, olives</composition>
+		<prix taille_l="10.60" taille_xl="15.40" taille_xxl="22.20"></prix>
+		<image>saumon.jpg</image>
+	</pizza>
+	<pizza>
+		<nom>La Savoyarde</nom>
+		<composition>Crème fraîche, reblochon, mozzarella, jambon cru en sortie de four</composition>
+		<prix taille_l="10.40" taille_xl="14.80" taille_xxl="21.20"></prix>
+		<image>savoyarde.jpg</image>
+	</pizza>
+	<pizza>
+		<nom>La Texane</nom>
+		<composition>Sauce tomate, bœuf haché, champignons, poulet, mozzarella, olives</composition>
+		<prix taille_l="11.40" taille_xl="15.50" taille_xxl="22.50"></prix>
+		<image>texane.jpg</image>
+	</pizza>
+</pizzas>
